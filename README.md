@@ -17,7 +17,9 @@ Modify URL by entering desired date in dd/mm/yyyy format.
 Assumptions:
 
 "The total number of customers that made an order that day." - Assumed that this question refered to unique customers
+
 "The average order total for that day." - Assumed that order total refers to the sum of total_amounts
+
 "The total amount of commissions generated that day." - Assumed that the commision is calculted by multiplying the total_amount by the vendors commission rate for that day.
 
 It was assumed that there is no missing data in the provided files.
